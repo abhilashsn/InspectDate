@@ -11,6 +11,15 @@
 // about supported directives.
 //
 //= require jquery
-//= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require jQuery-2.1.3.min
+//= require jquery_ujs
+//= require bootstrap.min
+//= require app
+//= require jquery.sparkline.min
+//= require jquery-jvectormap-1.2.2.min
+//= require jquery-jvectormap-world-mill-en
+//= require daterangepicker
+//= require bootstrap-datepicker
+//= require icheck.min
+//= require jquery.slimscroll.min
